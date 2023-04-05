@@ -5,7 +5,7 @@ Business Demand Overview:
 -	Necessary Systems: Power BI, SQL
 -	Other Relevant Info: Budgets have been delivered in Excel for 2022
 User Stories:
-	As a (role) 		Acceptance Criteria
+	As a (role) 		
 1. Sales Manager	:         I want (request / demand)  --     To get a dashboard overview of internet sales	
                             So that I (user value)     --     Can follow better which customers and products sells the best        	
                             Acceptance Criteria        --     A Power BI dashboard which updates data once a day
